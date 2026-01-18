@@ -4,95 +4,64 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/adityagiri61"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:goswamiaaditya61@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://instagram.com/aaditya__041106"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/adityagiri61"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:goswamiaaditya61@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/aaditya__041106"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://x.com/@Aaditya041106"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I specialize in building complete **end-to-end web applications**, covering **frontend, backend, and database development**.  
-On the frontend, I work with **React** to create smooth, responsive, and user-friendly interfaces.  
-On the backend, I use **Node.js and Express** to build secure, scalable APIs.  
-For databases, I manage and optimize data using **MongoDB and MySQL**.
+I specialize in building complete **end-to-end web applications**, covering **frontend, backend, and database development**.
 
-I focus on writing **clean code**, improving **performance**, and delivering **reliable solutions**.  
-I enjoy solving challenging bugs, learning new technologies, and working on projects that actually help people.
+* **Frontend:** Creating smooth, responsive, and user-friendly interfaces with **React & Tailwind**.
+* **Backend:** Building secure, scalable APIs using **Node.js & Express**.
+* **Databases:** Managing and optimizing data with **MongoDB & MySQL**.
+* **Currently Learning:** Exploring **Cloud Computing (AWS)** and **System Design**.
+
+---
+
+## 🏗️ What I'm Building
+🚧 **Production-level MERN projects in progress:**
+- 🔐 **Advanced Auth:** JWT & Role-based access control.
+- ⚡ **Scalable Systems:** Implementing **Apache Kafka** for real-time data.
+- 🎨 **Clean UI:** Focusing on modern UX with Tailwind CSS.
 
 ---
 
 ## 🧩 Tech Stack
 
 ### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### ⚙️ Backend & Database
-![NodeJS](https://img.shields.io/badge/NodeJS-6DA55F?style=for-the-badge&logo=node.js)
-![ExpressJS](https://img.shields.io/badge/ExpressJS-404D59?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![ExpressJS](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 
-### 🧠 Languages & Tools
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws)
-![Apache Kafka](https://img.shields.io/badge/Kafka-000?style=for-the-badge&logo=apachekafka)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell)
-
----
-
-## 🏗️ What I Build
-
-✔ Full-stack MERN applications  
-✔ REST APIs with authentication & authorization  
-✔ Scalable backend systems  
-✔ Responsive & clean UI  
-✔ Real-world project architecture  
-
----
-
-## 📌 Featured Projects
-
-🚧 **Currently building production-level MERN projects**  
-Coming soon:
-- 🔐 Auth systems (JWT, role-based access)
-- 📦 RESTful APIs
-- ⚡ Performance-optimized backend
-- 🎨 Clean UI with Tailwind + React
-
-
+### 🧠 Tools & Others
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-
-
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Aaditya0411&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aaditya0411&theme=dark&hide_border=false&show_icons=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditya0411&theme=dark&hide_border=false&layout=compact" height="170" />
 </p>
 
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Aaditya0411&theme=dark&hide_border=false" />
+</p>
 
 ---
-
-## 🔝 Top Contributed Repositories
-
-
-
-
 
 ### ⚡ Fun Fact
 > I break my own code just to understand it better 😄
 
----
+⭐ **Like my work? Star the repositories and let’s connect!**
 
-⭐ **Like my work? Star the repositories and let’s connect!**  
-🚀 Always open to learning, building, and collaborating.
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Aaditya0411&icon=0&color=0" />
+</p>
