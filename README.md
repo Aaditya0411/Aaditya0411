@@ -68,31 +68,24 @@ Coming soon:
 - ⚡ Performance-optimized backend
 - 🎨 Clean UI with Tailwind + React
 
-⭐ *Projects will be pinned here soon.*
+
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aaditya0411&show_icons=true&theme=dark"/>
-</p>
+
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Aaditya0411&theme=dark"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditya0411&layout=compact&theme=dark"/>
-</p>
 
 ---
 
 ## 🔝 Top Contributed Repositories
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Aaditya0411&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-</p>
+
 
 
 
