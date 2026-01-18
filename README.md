@@ -47,10 +47,7 @@ I enjoy solving challenging bugs, learning new technologies, and working on proj
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aaditya0411&theme=dark&hide_border=false&show_icons=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditya0411&theme=dark&hide_border=false&layout=compact" height="170" />
-</p>
+
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Aaditya0411&theme=dark&hide_border=false" />
@@ -62,7 +59,5 @@ I enjoy solving challenging bugs, learning new technologies, and working on proj
 > I break my own code just to understand it better 😄
 
 ⭐ **Like my work? Star the repositories and let’s connect!**
+      <p><a href="https://linkedin.com/in/adityagiri61"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Aaditya0411&icon=0&color=0" />
-</p>
