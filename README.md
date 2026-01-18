@@ -13,14 +13,13 @@
 
 ## 🚀 About Me
 
-🎓 **B.Tech CSE Student**  
-💻 **MERN Stack Developer**  
-🧠 Obsessed with **clean architecture & performance**  
-🛠️ I enjoy **debugging hard bugs** more than writing easy code  
-🌱 Currently improving **backend design, system thinking & cloud basics**
+I specialize in building complete **end-to-end web applications**, covering **frontend, backend, and database development**.  
+On the frontend, I work with **React** to create smooth, responsive, and user-friendly interfaces.  
+On the backend, I use **Node.js and Express** to build secure, scalable APIs.  
+For databases, I manage and optimize data using **MongoDB and MySQL**.
 
-I love building **real-world applications** that are scalable, maintainable, and actually useful.  
-My goal is simple: **write clean code today that doesn’t hurt tomorrow.**
+I focus on writing **clean code**, improving **performance**, and delivering **reliable solutions**.  
+I enjoy solving challenging bugs, learning new technologies, and working on projects that actually help people.
 
 ---
 
