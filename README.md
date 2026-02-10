@@ -3,21 +3,18 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+MERN+Developer;Cloud+%26+DevOps+Enthusiast;Building+Scalable+Systems" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aaditya0411&theme=tokyonight&no-bg=true&margin-w=15" alt="trophies" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Cloud+%26+DevOps+Learner;Building+Scalable+Systems" />
 </p>
 
 ---
 
-### ⚡ Quick Byte
-I'm a **Software Engineer** focused on building production-ready applications. I specialize in the **MERN Stack**, **Microservices with Kafka**, and **Cloud Infrastructure**. Currently pursuing B.Tech at Parul University.
+### 🧠 About Me
 
-* 🛠️ **Current Project:** Scaling real-time systems using Apache Kafka.
-* ☁️ **Cloud:** Deploying automated pipelines on AWS.
-* 🎯 **Goal:** Writing code that is clean, testable, and efficient.
+I am a **Full-Stack Developer** based in **Vadodara**, currently pursuing B.Tech at **Parul University**. I focus on building high-performance applications with clean architecture.
+
+* 🚀 **Building:** Real-time scalable systems using **Apache Kafka**.
+* ☁️ **Cloud:** Deploying production apps on **AWS**.
+* ⚡ **Fun Fact:** I break my own code just to understand it better 😄
 
 ---
 
@@ -29,7 +26,7 @@ I'm a **Software Engineer** focused on building production-ready applications. I
 
 ---
 
-### 🐍 Contribution Graph
+### 🐍 Contribution Snake
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aaditya0411/Aaditya0411/output/github-contribution-grid-snake-dark.svg">
@@ -40,7 +37,7 @@ I'm a **Software Engineer** focused on building production-ready applications. I
 
 ---
 
-### 📈 GitHub Insights
+### 📊 GitHub Insights
 
 <p align="center">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aaditya0411&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
@@ -58,8 +55,4 @@ I'm a **Software Engineer** focused on building production-ready applications. I
   <a href="https://linkedin.com/in/adityagiri61"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://x.com/Aaditya041106"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white"/></a>
   <a href="mailto:goswamiaaditya61@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <i>"I break my own code just to understand it better 😄"</i>
 </p>
