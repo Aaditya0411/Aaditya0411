@@ -1,94 +1,88 @@
-<!-- Animated Typing Header -->
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey+👋+I'm+Aaditya;MERN+Stack+Developer;Clean+Code+%7C+Scalable+Systems+%7C+Open+Source+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+there!+I'm+Aaditya+👋;MERN+Stack+Architect;Full-Stack+Engineer;Scalable+System+Designer" alt="Typing SVG" />
 </p>
 
-<h3 align="center">🚀 Building production-ready web apps that solve real problems</h3>
-
----
-
-## 🌐 Connect With Me
-
 <p align="center">
-  <a href="https://linkedin.com/in/adityagiri61"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:goswamiaaditya61@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://instagram.com/aaditya__041106"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://x.com/Aaditya041106"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white"/></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aaditya0411&theme=tokyonight&no-bg=true&margin-w=15" alt="trophies" /></a>
 </p>
 
 ---
 
-## 🧠 About Me
+### 💫 About Me
 
-I design and develop **full-stack, scalable, and production-ready** web applications using the **MERN ecosystem**.
+I am a **Full-Stack Developer** passionate about building high-performance, scalable web applications. My expertise lies in the **MERN Stack**, but I thrive when working on complex backend architectures like **Real-time systems with Kafka** and **Cloud deployments on AWS**.
 
-* 🎨 Crafting **fast, responsive UI** with **React + Tailwind**
-* ⚙️ Engineering **secure REST APIs** with **Node.js & Express**
-* 🗄️ Managing **efficient data systems** using **MongoDB & MySQL**
-* ☁️ Deploying **real-world apps** on **AWS & Render**
-* 🧩 Focused on **clean architecture, performance & reliability**
-
-I love solving **hard bugs**, learning **deep system concepts**,
-and building software that **actually helps people**.
+- 🔭 **Current Focus:** Building distributed systems and mastering System Design.
+- 🚀 **Past Experience:** Architecting secure RBAC systems and optimized RESTful APIs.
+- ⚡ **Superpower:** Breaking complex problems into clean, modular code.
+- 💬 **Ask me about:** React, Node.js, System Scalability, or why my code is failing at 2 AM.
 
 ---
 
-## 🏗️ What I'm Building Now
+### 🛠️ Tech Toolbox
 
-* 🔐 **Advanced Auth Systems** → JWT + RBAC + Security best practices
-* ⚡ **Real-time Scalable Apps** → Apache Kafka architecture
-* 🎨 **Modern UX Interfaces** → Clean UI with Tailwind
-* ☁️ **Cloud Deployment Pipelines** → AWS production setup
-
----
-
-## 🧩 Tech Stack
-
-### 🎨 Frontend
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-
-### ⚙️ Backend & Database
-
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge\&logo=apachekafka)
-
-### ☁️ Tools & Cloud
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge\&logo=render\&logoColor=000000)
+<table align="center">
+  <tr>
+    <td align="center" width="25%"><strong>Frontend</strong></td>
+    <td align="center" width="25%"><strong>Backend</strong></td>
+    <td align="center" width="25%"><strong>Cloud & DB</strong></td>
+    <td align="center" width="25%"><strong>Tools</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,kafka,java" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,aws,docker" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📈 Contribution Graph
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aaditya0411&theme=react-dark&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aaditya0411&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditya0411&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaditya0411&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🔥 Coding Streak
+### 📂 Featured Projects
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Aaditya0411&theme=dark&hide_border=true" />
-</p>
+| Project | Tech Stack | Status |
+| :--- | :--- | :--- |
+| **Advanced Auth Engine** | Node, JWT, Redis, MongoDB | 🚀 Live |
+| **Kafka Streamer** | Apache Kafka, Node.js, Express | 🛠️ In Progress |
+| **Modern UX Portfolio** | React, Framer Motion, Tailwind | 🎨 Complete |
 
 ---
 
-### ⚡ Fun Fact
-> I break my own code just to understand it better 😄
+### 🤝 Connect with Me
 
-⭐ *Like my work? Star the repositories and let’s connect!*
-      <p><a href="https://linkedin.com/in/adityagiri61"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
+<p align="left">
+<a href="https://linkedin.com/in/adityagiri61" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityagiri61" height="30" width="40" /></a>
+<a href="https://x.com/Aaditya041106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Aaditya041106" height="30" width="40" /></a>
+<a href="https://instagram.com/aaditya__041106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aaditya__041106" height="30" width="40" /></a>
+<a href="mailto:goswamiaaditya61@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="email" height="30" width="30" /></a>
+</p>
+
+<img src="https://raw.githubusercontent.com/Aaditya0411/Aaditya0411/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+---
+
+<p align="center">
+  <i>"I break my own code just to understand it better 😄"</i> <br>
+  <b>Don't forget to ⭐ if you like my work!</b>
+</p>
