@@ -87,7 +87,8 @@ and building software that **actually helps people**.
 
 ---
 
-## 🎯 2026 Vision
+### ⚡ Fun Fact
+> I break my own code just to understand it better 😄
 
-* 🌍 Become a **strong open-source contributor (GSoC level)**
-* 🧠 Master **DSA, System Design & S
+⭐ *Like my work? Star the repositories and let’s connect!*
+      <p><a href="https://linkedin.com/in/adityagiri61"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
