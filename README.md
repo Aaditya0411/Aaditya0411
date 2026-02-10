@@ -50,13 +50,15 @@ I enjoy solving challenging bugs, learning new technologies, and working on proj
 </div>
 
 ---
+
+
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aaditya0411&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditya0411&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aaditya0411&show_icons=true&theme=tokyonight&hide_border=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditya0411&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aaditya0411&theme=tokyonight&hide_border=true)
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaditya0411&theme=tokyonight" alt="GitHub Streak"/>
 </div>
