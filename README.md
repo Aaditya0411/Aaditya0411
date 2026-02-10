@@ -45,9 +45,9 @@ I enjoy solving challenging bugs, learning new technologies, and working on proj
 
 ## 📈 Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aaditya0411&theme=github-compact)
-
 ## 📊 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditya0411E&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditya0411&layout=donut)
+
 
 
 ### ⚡ Fun Fact
