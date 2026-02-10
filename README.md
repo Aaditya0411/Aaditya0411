@@ -81,14 +81,7 @@ I enjoy solving **complex bugs**, learning **modern technologies**, and creating
 
 ---
 
-## 🎯 2026 Goals
 
-* 🚀 Contribute to **Google Summer of Code**
-* 🧠 Master **Data Structures & System Design**
-* ☁️ Gain strong expertise in **Cloud & Scalable Systems**
-* 💼 Secure a **high-impact software internship**
-
----
 
 ## ⚡ Fun Fact
 
