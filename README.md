@@ -51,26 +51,15 @@ I enjoy solving challenging bugs, learning new technologies, and working on proj
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Aaditya0411&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aaditya0411&theme=radical&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditya0411&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aaditya0411&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditya0411&layout=compact&theme=tokyonight&hide_border=true)
 
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaditya0411&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
----
 
 
 ### ⚡ Fun Fact
