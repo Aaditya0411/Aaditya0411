@@ -200,9 +200,6 @@ aditya.sayHi();
 ### 💭 Quote of the Day
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🐍 Contribution Snake
-![Snake animation](https://github.com/Aaditya0411/Aaditya0411/blob/output/github-contribution-grid-snake-dark.svg)
-
 <br>
 
 **⭐ Star my repositories if you find them helpful!**
