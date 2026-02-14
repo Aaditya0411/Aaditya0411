@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 About Me
+
 
 I specialize in building **end-to-end web applications**, covering **frontend, backend, and database development**.  
 On the frontend, I work with **React** to create smooth, responsive, and user-friendly interfaces.  
