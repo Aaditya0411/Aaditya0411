@@ -1,7 +1,4 @@
-<p align="center">
-  <h1 align="center">Hey 👋I'm Aditya</h1>
-  <h3 align="center">MERN Stack Developer • Clean Code Lover • Problem Solver</h3>
-</p>
+
 
 <p align="center">
   <a href="https://linkedin.com/in/adityagiri61"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
