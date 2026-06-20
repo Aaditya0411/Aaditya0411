@@ -147,24 +147,8 @@ Mern Stack Developer • Blockchain Enthusiast
 </div>
 
 ---
-
-# 🎯 2026 Goals
-
-✅ Build Production-Level MERN Projects
-
-✅ Master Backend Development
-
-🔄 Learn Smart Contract Security
-
-🔄 Build Real-World dApps
-
-🔄 Contribute to Open Source
-
-🔄 Strengthen DSA & Problem Solving
-
-🔄 Secure a Software Engineering Internship
-
 ---
+
 
 # ⚡ Fun Fact
 
