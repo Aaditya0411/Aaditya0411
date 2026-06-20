@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Adityagiri</h1>
 
 <h3 align="center">
-Full Stack Developer • Blockchain Enthusiast • Computer Science Student
+Mern Stack Developer • Blockchain Enthusiast 
 </h3>
 
 <p align="center">
