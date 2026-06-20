@@ -5,7 +5,7 @@ Mern Stack Developer • Blockchain Enthusiast
 </h3>
 
 <p align="center">
-🚀 Building scalable web applications and exploring the future of Web3.
+ • Building scalable web applications and exploring the future of Web3.
 </p>
 
 <p align="center">
