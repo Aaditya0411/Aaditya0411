@@ -1,64 +1,113 @@
-# Hey 👋 I'm Adityagiri
+<h1 align="center">Hey 👋, I'm Adityagiri</h1>
 
-### 🚀 MERN Stack & Web3 Developer | Problem Solver | Blockchain Enthusiast
-
-🔭 I’m currently working on **MERN Stack & Blockchain Projects**
-
-🌱 I’m currently learning **Solidity, Smart Contracts & Web3 Development**
-
-👯 I’m looking to collaborate on **Open Source MERN & Web3 Projects**
-
-💬 Ask me about **React, Node.js, MongoDB, Solidity, Blockchain & Java**
-
-⚡ Fun fact: **I break my own code just to understand it better 😄**
+<h3 align="center">
+Full Stack Developer • Blockchain Enthusiast • Computer Science Student
+</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/adityagiri61"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:goswamiaaditya61@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://instagram.com/aaditya__041106"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+🚀 Building scalable web applications and exploring the future of Web3.
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/adityagiri61">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="mailto:goswamiaaditya61@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://instagram.com/aaditya__041106">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/Aaditya0411">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I'm a Computer Science student passionate about building scalable web applications and decentralized systems.
+🎓 B.Tech Computer Science Engineering Student
 
-I specialize in **Full Stack Development** using the **MERN Stack** and am currently expanding my skills into **Blockchain & Web3 Development**.
+💻 Passionate about building Full Stack Applications and Blockchain Solutions
 
-I enjoy building real-world projects, solving challenging problems, writing clean code, and continuously learning new technologies.
+🌱 Currently learning Solidity, Smart Contracts and Web3 Development
+
+⚡ Exploring modern technologies and solving real-world problems through code
+
+🧠 Strong interest in Software Engineering, System Design and Decentralized Technologies
+
+🎯 Goal: Become a skilled Software Engineer and contribute to impactful products
 
 ---
 
-## 🏗️ Current Focus
+# 🔭 Current Focus
 
 - 🌐 Building Full Stack MERN Applications
 - ⛓️ Learning Blockchain & Smart Contract Development
-- 🎲 Creating Decentralized Applications (dApps)
+- 🎲 Developing Decentralized Applications (dApps)
 - 🔐 Exploring Smart Contract Security
-- ⚡ Improving DSA & Problem Solving Skills
-- 🚀 Preparing for Software Engineering Internships
+- 📚 Strengthening DSA & Problem Solving
+- 🚀 Creating Production-Ready Projects
 
 ---
 
-## 🧩 Tech Stack
+# 🌱 Currently Learning
 
-### 🎨 Frontend
+- Solidity
+- Ethereum
+- Web3.js
+- Hardhat
+- Foundry
+- Advanced Backend Development
+- Data Structures & Algorithms
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+---
 
-### ⚙️ Backend & Database
+# 💬 Ask Me About
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- JavaScript
+- Java
+- Solidity
+- Blockchain
+- Git & GitHub
 
-### ⛓️ Blockchain & Web3
+---
+
+# ⚒️ Tech Stack
+
+## 🎨 Frontend
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
+## ⚙️ Backend
+
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+---
+
+## 🗄️ Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## ⛓️ Blockchain & Web3
 
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
@@ -66,16 +115,18 @@ I enjoy building real-world projects, solving challenging problems, writing clea
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge)
 ![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge)
 
-### 🧠 Programming & Tools
+---
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+## 🧰 Tools
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aaditya0411&theme=tokyo-night&hide_border=true" />
@@ -83,29 +134,44 @@ I enjoy building real-world projects, solving challenging problems, writing clea
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaditya0411&theme=tokyonight" alt="GitHub Streak"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aaditya0411&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditya0411&layout=compact&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaditya0411&theme=tokyonight"/>
+
 </div>
 
 ---
 
-## 🎯 2026 Goals
+# 🎯 2026 Goals
 
-- 🚀 Land a Software Engineering Internship
-- 💻 Build Production-Ready MERN Projects
-- ⛓️ Master Solidity & Smart Contract Development
-- 🌐 Build and Deploy Real-World dApps
-- 🧠 Strengthen DSA & Problem Solving
-- ⭐ Contribute to Open Source Projects
+✅ Build Production-Level MERN Projects
+
+✅ Master Backend Development
+
+🔄 Learn Smart Contract Security
+
+🔄 Build Real-World dApps
+
+🔄 Contribute to Open Source
+
+🔄 Strengthen DSA & Problem Solving
+
+🔄 Secure a Software Engineering Internship
 
 ---
 
-### ⚡ Fun Fact
+# ⚡ Fun Fact
 
-> I don't just write code — I enjoy understanding how things work behind the scenes, whether it's a web application or a blockchain protocol.
+> I love understanding how things work behind the scenes. Whether it's a web application, backend architecture, or a blockchain protocol, I'm always curious to explore deeper.
 
 ---
 
-⭐ **If you like my work, consider starring my repositories and connecting with me!**
+<h3 align="center">
+🚀 From MERN Stack to Web3 — Building the Future One Project at a Time.
+</h3>
