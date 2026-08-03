@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Adityagiri</h1>
 
 <h3 align="center">
-Full-Stack MERN Developer &nbsp;•&nbsp; Blockchain Enthusiast
+Full-Stack MERN Developer • Blockchain Enthusiast
 </h3>
 
 <p align="center">
@@ -27,23 +27,22 @@ Full-Stack MERN Developer &nbsp;•&nbsp; Blockchain Enthusiast
 
 # 🚀 About Me
 
-- 🎓 **B.Tech Computer Science Engineering Student**
-- 💻 **Passionate about building Full Stack Applications and Blockchain Solutions**
-- 🌱 **Currently learning Solidity, Smart Contracts and Web3 Development**
-- ⚡ **Exploring modern technologies and solving real-world problems through code**
-- 🧠 **Strong interest in Software Engineering, System Design and Decentralized Technologies**
-- 🎯 **Goal: Become a skilled Software Engineer and contribute to impactful products**
+- 🎓 B.Tech Computer Science Engineering Student
+- 💻 Passionate about Full Stack Development & Blockchain
+- 🌱 Currently learning Solidity, Smart Contracts and Web3
+- ⚡ Exploring System Design & Backend Engineering
+- 🎯 Goal: Become a Software Engineer building impactful products
 
 ---
 
 # 🔭 Current Focus
 
-- 🌐 **Building Full Stack MERN Applications**
-- ⛓️ **Learning Blockchain & Smart Contract Development**
-- 🎲 **Developing Decentralized Applications (dApps)**
-- 🔐 **Exploring Smart Contract Security**
-- 📚 **Strengthening DSA & Problem Solving**
-- 🚀 **Creating Production-Ready Projects**
+- 🌐 MERN Stack Development
+- ⛓️ Blockchain & Smart Contracts
+- 🎲 Building dApps
+- 🔐 Smart Contract Security
+- 📚 Data Structures & Algorithms
+- 🚀 Production Ready Projects
 
 ---
 
@@ -51,11 +50,11 @@ Full-Stack MERN Developer &nbsp;•&nbsp; Blockchain Enthusiast
 
 - Solidity
 - Ethereum
-- Web3.js
 - Hardhat
 - Foundry
-- Advanced Backend Development
-- Data Structures & Algorithms
+- Web3.js
+- Advanced Backend
+- DSA
 
 ---
 
@@ -77,68 +76,92 @@ Full-Stack MERN Developer &nbsp;•&nbsp; Blockchain Enthusiast
 
 ### 🎨 Frontend
 
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
 
 ### ⚙️ Backend
 
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+</p>
 
 ### 🗄️ Database
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
-### ⛓️ Blockchain & Web3
+### ⛓️ Blockchain
 
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge)
-![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge)
+<p>
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
+<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=ethereum&logoColor=white"/>
+</p>
 
-### 🧰 Tools
+### 🛠️ Tools
 
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+</p>
 
 ---
 
 # 📈 Contribution Graph
 
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=
-Aaditya0411&theme=tokyo-night&hide_border=true" />
-</div>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aaditya0411&theme=tokyo-night&hide_border=true" width="100%">
+</p>
 
 ---
 
 # 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aaditya0411
-&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditya0411
-&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aaditya0411&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditya0411&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Aaditya0411&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Aaditya0411&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
-# ⚡ Fun Fact
+## 🏆 GitHub Trophies
 
-> I love understanding how things work behind the scenes. Whether it's a web application, backend architecture, or a blockchain protocol, I'm always curious to explore deeper.
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Aaditya0411&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Aaditya0411/Aaditya0411/output/github-contribution-grid-snake-dark.svg">
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+> I love understanding how things work behind the scenes. Whether it's a web application, backend architecture, or blockchain protocol, I'm always curious to explore deeper.
 
 ---
 
