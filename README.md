@@ -97,7 +97,7 @@ alt="wordmark"/>
 🚀 Current Focus
 </h2>
 
-<div align="center">
+<div align="">
 
 | 💻 Development | ⛓️ Blockchain | 📚 Learning |
 |:--------------:|:-------------:|:-----------:|
@@ -110,7 +110,7 @@ alt="wordmark"/>
 <!--                 PART 2 - TECH STACK                   -->
 <!-- ===================================================== -->
 
-<h2 align = "center" >⚒️ Tech Stack</h2>
+<h2 align = "" >⚒️ Tech Stack</h2>
 
 
 
