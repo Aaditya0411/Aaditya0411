@@ -1,119 +1,35 @@
-<!-- <h1 align="center">Hi 👋, I'm Adityagiri</h1>
+<div align="center">
 
-<h3 align="center">
-Full Stack MERN Developer • Blockchain Enthusiast
-</h3>
+<h3><code>aaditya0411@github ~ $ whoami</code></h3>
 
-<p align="center">
-Building scalable web applications and exploring the future of Web3.
-</p>
+<table>
+<tr>
+<td width="42%" valign="top"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=aaditya0411&theme=aurora&style=terminal&mode=light" />
+  <img src="https://www.gitskins.com/api/section/portrait?username=aaditya0411&theme=aurora&style=terminal&mode=dark" width="100%" alt="aaditya0411 portrait" />
+</picture></td>
+<td width="58%" valign="top"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=aaditya0411&theme=aurora&style=terminal&label=Adityagiri+Goswami&mode=light" />
+  <img src="https://www.gitskins.com/api/section/wordmark?username=aaditya0411&theme=aurora&style=terminal&label=Adityagiri+Goswami&mode=dark" width="100%" alt="aaditya0411 wordmark" />
+</picture></td>
+</tr>
+</table>
 
-<p align="center">
-  <a href="https://github.com/Aaditya0411">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<p><b>Frontend or full-stack engineer</b></p>
 
-  <a href="https://linkedin.com/in/adityagiri61">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<p><a href="https://github.com/aaditya0411">GitHub</a></p>
 
-  <a href="mailto:goswamiaaditya61@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+</div>
 
-  <a href="https://instagram.com/aaditya__041106">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
 
----
+<h3><code>aaditya0411@github ~ $ ./contributions.sh</code></h3>
 
-# 🚀 About Me
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=aaditya0411&theme=aurora&style=terminal&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=aaditya0411&theme=aurora&style=terminal&mode=dark" width="100%" alt="aaditya0411 heatmap" />
+</picture>
 
-- 🎓 B.Tech CSE Student
-- 💻 Full Stack MERN Developer
-- ⛓️ Learning Solidity & Web3
-- 📚 Practicing DSA
-- 🚀 Building Production Ready Projects
+</div>
 
----
-
-# 💻 Tech Stack
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-</p>
-
-### Blockchain
-
-<p>
-<img src="https://skillicons.dev/icons?i=solidity,ethereum"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aaditya0411&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditya0411&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Aaditya0411&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Aaditya0411&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aaditya0411&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-<h3 align="center">
-🚀 From MERN Stack to Web3 — Building the Future One Project at a Time.
-</h3> -->
+<p align="center"><sub>Adityagiri Goswami · Profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
