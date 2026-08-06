@@ -254,7 +254,7 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?u
 
 <h2 align="center">📌 Currently Working On</h2>
 
-<div align="center">
+<div align="">
 
 🔹 Advanced MERN Applications
 
