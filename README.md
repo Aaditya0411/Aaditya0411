@@ -204,13 +204,7 @@ alt="wordmark"/>
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
-<div align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=Aaditya0411&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditya0411&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -234,18 +228,8 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Aaditya0411&
 
 </div>
 
----
 
-<h2 align="center">🏆 GitHub Achievements</h2>
 
-<div align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=Aaditya0411&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=2&column=4"/>
-
-</div>
-
----
 
 <h2 align="center">📈 Profile Summary</h2>
 
@@ -296,37 +280,9 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?u
 
 </div>
 
----
 
-<h2 align="center">🐍 Contribution Snake</h2>
 
-<div align="center">
 
-<img src="https://raw.githubusercontent.com/Aaditya0411/Aaditya0411/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-<h2 align="center">⚡ Random Dev Quote</h2>
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
-
----
-
-<h2 align="center">😂 Random Programming Meme</h2>
-
-<div align="center">
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
-
-</div>
-
----
 
 <h2 align="center">🌍 Connect With Me</h2>
 
@@ -350,33 +306,8 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?u
 
 </p>
 
----
 
-<h2 align="center">☕ Support Me</h2>
 
-<p align="center">
-
-<a href="https://github.com/sponsors">
-<img src="https://img.shields.io/badge/Sponsor-GitHub-pink?style=for-the-badge&logo=githubsponsors"/>
-</a>
-
-</p>
-
----
-
-<h2 align="center">⚡ Fun Fact</h2>
-
-<div align="center">
-
-💡 I love understanding how things work behind the scenes.
-
-From Backend Systems to Blockchain Protocols,
-
-I'm always curious to explore deeper and build impactful software.
-
-</div>
-
----
 
 <h2 align="center">
 🚀 From MERN Stack to Web3 — Building the Future One Project at a Time.
