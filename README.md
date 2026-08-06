@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adityagiri</h1>
+<!-- <h1 align="center">Hi 👋, I'm Adityagiri</h1>
 
 <h3 align="center">
 Full Stack MERN Developer • Blockchain Enthusiast
@@ -116,4 +116,4 @@ Building scalable web applications and exploring the future of Web3.
 
 <h3 align="center">
 🚀 From MERN Stack to Web3 — Building the Future One Project at a Time.
-</h3>
+</h3> -->
