@@ -13,7 +13,7 @@
 
 <div align="center">
 
-<h2><code>aaditya0411@github ~ $ whoami</code></h2>
+
 
 <table>
 <tr>
@@ -92,19 +92,6 @@ alt="wordmark"/>
 
 </p>
 
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Aaditya0411&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
-
-<img src="https://img.shields.io/github/followers/Aaditya0411?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/Aaditya0411?style=for-the-badge"/>
-
-</p>
-
----
 
 <h2 align="center">
 🚀 Current Focus
@@ -280,52 +267,6 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?u
 
 </div>
 
----
-
-<h2 align="center">💻 Coding Profiles</h2>
-
-<p align="center">
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://codeforces.com/">
-<img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge"/>
-</a>
-
-</p>
-
----
-
-<!-- ===================================================== -->
-<!--              PART 3 - PROJECTS & FOOTER               -->
-<!-- ===================================================== -->
-
-<h2 align="center">🚀 Featured Projects</h2>
-
-<div align="center">
-
-| Project | Tech Stack | Description |
-|:--------:|:----------:|:-----------:|
-| 🏠 **BNBreeze** | MERN, MongoDB | Airbnb-inspired vacation rental platform |
-| ⛓️ **FundMe DApp** | Solidity, Foundry | Blockchain crowdfunding smart contract |
-| 🎲 **Lottery Smart Contract** | Solidity | Decentralized Lottery using Ethereum |
-| 💰 **Simple Storage** | Solidity | Smart Contract Storage Project |
-| 🌐 **Portfolio Website** | React, Tailwind | Personal Portfolio |
-| 📚 **DSA Repository** | Java | Data Structures & Algorithms Solutions |
-
-</div>
-
----
 
 <h2 align="center">📌 Currently Working On</h2>
 
