@@ -110,9 +110,9 @@ alt="wordmark"/>
 <!--                 PART 2 - TECH STACK                   -->
 <!-- ===================================================== -->
 
-<h2 align="center">⚒️ Tech Stack</h2>
+<h2 align = "center" >⚒️ Tech Stack</h2>
 
-<div align="center">
+
 
 ### 🎨 Frontend
 
