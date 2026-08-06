@@ -3,19 +3,7 @@
 <!--                     PART 1 - HEADER                   -->
 <!-- ===================================================== -->
 
-<h1 align="center">
-  Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Adityagiri Goswami
-</h1>
 
-<h3 align="center">
-🚀 MERN Stack Developer • Blockchain Enthusiast • Open Source Contributor
-</h3>
-
-<p align="center">
-Building scalable web applications and exploring the future of Web3.
-</p>
-
----
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=900&lines=Hey+I'm+Adityagiri+Goswami;MERN+Stack+Developer;Blockchain+Developer;Open+Source+Contributor;Building+Production+Ready+Projects;Always+Learning+New+Technologies" />
