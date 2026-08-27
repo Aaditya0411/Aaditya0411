@@ -235,14 +235,6 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?u
 
 <br><br>
 
-<img width="32%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aaditya0411&theme=tokyonight"/>
-
-<img width="32%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aaditya0411&theme=tokyonight"/>
-
-<img width="32%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aaditya0411&theme=tokyonight&utcOffset=5.5"/>
 
 </div>
 
