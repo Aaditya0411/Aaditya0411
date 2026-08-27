@@ -233,9 +233,6 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Aaditya0411&
 <img width="100%"
 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aaditya0411&theme=tokyonight"/>
 
-<br><br>
-
-
 </div>
 
 
@@ -299,12 +296,6 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?u
 <h2 align="center">
 🚀 From MERN Stack to Web3 — Building the Future One Project at a Time.
 </h2>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=140&section=footer"/>
-
-</div>
 
 <!-- ===================================================== -->
 <!--                     END OF README                     -->
