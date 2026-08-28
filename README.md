@@ -213,15 +213,6 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Aaditya0411&
 
 
 
-<h2 align="center">📈 Profile Summary</h2>
-
-<div align="center">
-
-<img width="100%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aaditya0411&theme=tokyonight"/>
-
-</div>
-
 
 <h2 align="center">📌 Currently Working On</h2>
 
