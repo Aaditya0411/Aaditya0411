@@ -88,19 +88,6 @@ alt="wordmark"/>
 </p>
 
 
-<h2 align="center">
-🚀 Current Focus
-</h2>
-
-<div align="">
-
-| 💻 Development | ⛓️ Blockchain | 📚 Learning |
-|:--------------:|:-------------:|:-----------:|
-| MERN Stack | Solidity | DSA |
-| REST APIs | Ethereum | System Design |
-| Next Projects | Smart Contracts | Web3 |
-| Backend | Hardhat | Foundry |
-
 <!-- ===================================================== -->
 <!--                 PART 2 - TECH STACK                   -->
 <!-- ===================================================== -->
